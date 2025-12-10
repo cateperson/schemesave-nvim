@@ -5,3 +5,4 @@ Simple neovim plugin to save always load your last used colour scheme
 
 - `:SaveColorScheme`: Saves the current color scheme.
 - `:LoadColorScheme`: Loads the previously saved color scheme.
+
